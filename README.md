@@ -19,7 +19,7 @@ contained follows:
 
 ## Author :black_nib:
 
-* __walelign belisty mulualem__ <[Anteneh2121](https://github.com/Anteneh2121)>
+* __walelign belisty mulualem__ <[walelignb1](https://github.com/Anteneh2121)>
 
 ## Acknowledgements :pray:
 
